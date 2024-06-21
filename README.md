@@ -1,0 +1,7 @@
+-👋 Hi, I’m @JasonSD-21
+- 👀 I’m interested in web development, data science, and artificial intelligence.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
+- 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 📫 How to reach me: Jasonsalasd.21@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring new places in my free time.
